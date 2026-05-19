@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankingFiltersApp/BankingFiltersApp.csproj" Id="a8e20a45-500e-4e31-9836-e0c7c727eb1f" />
+  <Project Path="ECommerceFiltersApp/ECommerceFiltersApp.csproj" />
+</Solution>
